@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\prgrms vs c\u002B\u002B\\lab26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC54B06D-8535-4B1C-A207-39F17D929224}|lab26\\lab26.vcxproj|D:\\prgrms vs c\u002B\u002B\\lab26\\lab26\\lab26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC54B06D-8535-4B1C-A207-39F17D929224}|lab26\\lab26.vcxproj|solutionrelative:lab26\\lab26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab26.cpp",
+              "DocumentMoniker": "D:\\prgrms vs c\u002B\u002B\\lab26\\lab26\\lab26.cpp",
+              "RelativeDocumentMoniker": "lab26\\lab26.cpp",
+              "ToolTip": "D:\\prgrms vs c\u002B\u002B\\lab26\\lab26\\lab26.cpp",
+              "RelativeToolTip": "lab26\\lab26.cpp",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwEcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T16:48:31.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
